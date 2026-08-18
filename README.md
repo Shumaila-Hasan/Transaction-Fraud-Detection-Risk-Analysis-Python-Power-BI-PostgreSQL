@@ -66,25 +66,18 @@ Merchant analysis
 
 Transaction behavior analysis
 
-### KPIs
+## Key Performance Indicators
 
-KPI	                            Result
-
-Total Transactions	            1,000,000
-
-Total Transaction Value	         $183.74M
-
-Fraudulent Transactions	         17,143
-
-Fraud Rate	                     1.71%
-
-Fraud Transaction Value          $12.52M
-
-Fraud Loss Rate	               6.81%
-
-Total Accounts	                  50,000
-
-Fraudster Accounts	            13,336
+| KPI | Result |
+|---|---:|
+| **Total Transactions** | 1,000,000 |
+| **Total Transaction Value** | $183.74M |
+| **Fraudulent Transactions** | 17,143 |
+| **Fraud Rate** | 1.71% |
+| **Fraud Transaction Value** | $12.52M |
+| **Fraud Loss Rate** | 6.81% |
+| **Total Accounts** | 50,000 |
+| **Fraudster Accounts** | 13,336 |
 
 ### Insights
 
