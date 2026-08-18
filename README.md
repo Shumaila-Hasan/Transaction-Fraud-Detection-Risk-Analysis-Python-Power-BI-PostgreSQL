@@ -1,12 +1,12 @@
 # Transaction-Fraud-Detection-Risk-Analysis-Python-Power-BI-PostgreSQL
 
-## Introduction
+# Introduction
 
 This project analyzes **1 million financial transactions across 50,000 accounts** to identify fraudulent transaction patterns, high-risk customer behavior, security vulnerabilities, and potential fraud networks.
 
 The analysis combines transaction-level data with account profiles, fraud-pattern statistics, network relationships, and time-based transaction behavior. Using **Python, PostgreSQL, SQL, and Power BI**, the objective was to transform raw transaction data into actionable insights that can help a financial institution detect suspicious activity earlier, prioritize high-risk accounts, and reduce potential fraud losses.
 
-## Problem Statement
+# Problem Statement
 
 Financial institutions process a large volume of transactions every day, making it difficult to identify fraudulent activity using transaction amount alone. Fraud can be associated with unusual transaction behavior, unknown devices, foreign transactions, high transaction velocity, weak authentication, suspicious accounts, and coordinated networks of accounts.
 
@@ -14,7 +14,7 @@ The business needs to understand **where fraud is occurring, which behaviors are
 
 The project therefore focuses on identifying the major drivers of fraud and translating them into practical actions for **fraud detection, account monitoring, authentication controls, and loss reduction**.
 
-## Goal
+# Goal
 
 The goal of this project is to:
 
@@ -26,7 +26,7 @@ The goal of this project is to:
 * Identify suspicious relationships and potential **fraud rings**.
 * Provide business recommendations that can help reduce fraud exposure and improve transaction monitoring.
 
-### Tools & Technologies
+# Tools & Technologies
 
 -Python
 
@@ -143,7 +143,7 @@ The top three patterns accounted for approximately 73% of fraudulent transaction
 Fraud rates were highest between approximately 12 AM and 5 AM, with the highest hourly fraud rate occurring around 2 AM at 2.93%.
 
 
-### Business Recommendations
+# Business Recommendations
 
 Based on the analysis:
 
@@ -162,11 +162,11 @@ Based on the analysis:
 -Strengthen account-takeover detection using combinations of device, location, velocity, and transaction-value signals.
 
 
-### Power BI Dashboard
+# Power BI Dashboard
 
 ![Dashboard](https://github.com/Shumaila-Hasan/Transaction-Fraud-Detection-Risk-Analysis-Python-Power-BI-PostgreSQL/blob/main/Transaction-Fraud-Detection-Risk-Analysis.png)
 
-### Conclusion
+# Conclusion
 
 The analysis shows that fraud is relatively infrequent in transaction volume but has a disproportionately large financial impact. The overall fraud rate is **1.71%**, while fraudulent transactions account for **6.81% of total transaction value**, highlighting the importance of focusing on potential financial loss rather than transaction count alone.
 
