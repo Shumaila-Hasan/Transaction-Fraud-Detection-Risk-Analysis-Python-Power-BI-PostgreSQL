@@ -1,12 +1,12 @@
 # Transaction-Fraud-Detection-Risk-Analysis-Python-Power-BI-PostgreSQL
 
-#### Introduction
+## Introduction
 
 This project analyzes **1 million financial transactions across 50,000 accounts** to identify fraudulent transaction patterns, high-risk customer behavior, security vulnerabilities, and potential fraud networks.
 
 The analysis combines transaction-level data with account profiles, fraud-pattern statistics, network relationships, and time-based transaction behavior. Using **Python, PostgreSQL, SQL, and Power BI**, the objective was to transform raw transaction data into actionable insights that can help a financial institution detect suspicious activity earlier, prioritize high-risk accounts, and reduce potential fraud losses.
 
-### Problem Statement
+## Problem Statement
 
 Financial institutions process a large volume of transactions every day, making it difficult to identify fraudulent activity using transaction amount alone. Fraud can be associated with unusual transaction behavior, unknown devices, foreign transactions, high transaction velocity, weak authentication, suspicious accounts, and coordinated networks of accounts.
 
@@ -14,7 +14,7 @@ The business needs to understand **where fraud is occurring, which behaviors are
 
 The project therefore focuses on identifying the major drivers of fraud and translating them into practical actions for **fraud detection, account monitoring, authentication controls, and loss reduction**.
 
-### Goal
+## Goal
 
 The goal of this project is to:
 
@@ -79,7 +79,9 @@ Transaction behavior analysis
 | **Total Accounts** | 50,000 |
 | **Fraudster Accounts** | 13,336 |
 
-### Insights
+Although fraudulent transactions represent only 1.71% of total transactions, they account for $12.52M in transaction value, resulting in a 6.81% fraud loss rate. The analysis also identified 13,336 accounts associated with fraudulent activity, highlighting the importance of account-level risk monitoring alongside transaction-level fraud detection.
+
+# Insights
 
 1. Fraud has a disproportionate financial impact
 
